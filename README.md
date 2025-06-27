@@ -1,2 +1,2 @@
-# projrct-qr
+# project-qr
 Making a QR code
